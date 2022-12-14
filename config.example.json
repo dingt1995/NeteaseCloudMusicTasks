@@ -6,11 +6,11 @@
     "users": [
         {
             /* 填写手机号或邮箱 */
-            "username": "",
+            "username": "15221979547",
             /* 如果使用非中国大陆的手机号登录则需填写 countrycode，其他情况都不用填写 */
             "countrycode": "",
             /* 填写密码或 32 位 md5 加密后的密码 */
-            "password": "",
+            "password": "Dt19950920",
             /* 若都填写了账号密码和 cookie，会优先使用 cookie */
             /* cookie 失效后才会使用账号密码登录 */
             /* 填写方式详见 https://github.com/chen310/NeteaseCloudMusicTasks#%E8%B4%A6%E5%8F%B7%E5%AF%86%E7%A0%81 */
